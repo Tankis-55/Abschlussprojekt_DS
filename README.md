@@ -22,7 +22,7 @@ This project analyzes COVID-19 trends, predicts future cases and deaths, and exp
 	•	Regression analysis on vaccination rates and infections
 
 📂 Dataset
-	•	Source: Kaggle’s COVID-19 dataset, WHO data, and government reports
+	•	Source: Kaggle’s COVID-19 dataset (https://covid.ourworldindata.org/data/owid-covid-data.csv)
 	•	Format: CSV (compact_official_countries_only.csv)
 	•	Key Columns:
 	•	date: Date of record
