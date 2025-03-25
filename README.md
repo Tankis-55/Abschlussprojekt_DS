@@ -1,10 +1,10 @@
-🦠 COVID-19 Data Analysis and Forecasting
+### COVID-19 Data Analysis and Forecasting
 
-📌 Project Overview
+## Project Overview
 
 This project analyzes COVID-19 trends, predicts future cases and deaths, and explores the impact of vaccination on mortality. The analysis includes data preprocessing, exploratory data analysis (EDA), visualizations, and machine learning-based forecasting.
 
-📊 Key Features
+# Key Features
 	•	📂 Data Cleaning & Processing
 	•	Handling missing values, duplicates, and inconsistent data
 	•	Converting date formats and extracting relevant features
@@ -21,7 +21,7 @@ This project analyzes COVID-19 trends, predicts future cases and deaths, and exp
 	•	Predicting future COVID-19 cases and deaths
 	•	Regression analysis on vaccination rates and infections
 
-📂 Dataset
+# Dataset
 	•	Source: Kaggle’s COVID-19 dataset (https://covid.ourworldindata.org/data/owid-covid-data.csv)
 	•	Format: CSV (compact_official_countries_only.csv)
 	•	Key Columns:
@@ -33,30 +33,30 @@ This project analyzes COVID-19 trends, predicts future cases and deaths, and exp
 	•	new_deaths: Daily new deaths
 	•	people_vaccinated: Number of vaccinated individuals
 
-🛠️ Tech Stack
+# Tech Stack
 	•	Python (pandas, numpy, matplotlib, seaborn)
 	•	Machine Learning (scikit-learn, statsmodels, ARIMA)
 	•	Visualization (Matplotlib, Seaborn)
 
 
- 🚀 How to Run the Project
+ # How to Run the Project
 
-1️⃣ Install Dependencies
+1. Install Dependencies
 pip install -r requirements.txt
 
-2️⃣ Run Data Cleaning Script
+2. Run Data Cleaning Script
 python data_cleaning.py
 
-3️⃣ Perform Data Analysis & Visualization
+3. Perform Data Analysis & Visualization
 python data_analysis.py
 
-4️⃣ Run Forecasting Models
+4. Run Forecasting Models
 python forecasting.py
 
-📌 Future Improvements
+# Future Improvements
 
-✅ Add deep learning-based forecasting models (LSTM, Transformer)
-✅ Integrate real-time COVID-19 case tracking via APIs
-✅ Deploy interactive dashboards using Streamlit
+- Add deep learning-based forecasting models (LSTM, Transformer)
+- Integrate real-time COVID-19 case tracking via APIs
+- Deploy interactive dashboards using Streamlit
 
-⭐ If you find this project useful, feel free to give it a star!
+:)  If you find this project useful, feel free to give it a star!
